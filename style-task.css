@@ -1,0 +1,68 @@
+/* Your CSS file must include examples of: 
+- An element selector
+- A class selector
+- An id selector
+- An imported font
+
+colour pallete 
+https://coolors.co/palette/c9e4ca-87bba2-55828b-3b6064-364958
+
+https://realtimecolors.com/?colors=fbfefc-082614-60dc92-092a16-2ed16f
+*/
+
+
+* {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+
+}
+
+
+#title {
+    /* border-bottom: 5px; 
+border-radius:10px ; */
+
+    border-radius: 16px;
+
+    border: #87bba2 solid 8px;
+    background-color: #55828b;
+
+
+}
+
+h1 {
+    color: white;
+}
+
+.nav {}
+
+#main {
+    border-radius: 16px;
+    border: #87bba2 solid 8px;
+    background-color: #c9e4ca;
+}
+
+.mediaframe {
+    background-color: #87bba2;
+    border-radius: 16px;
+}
+
+
+.article {
+   
+    border-radius: 16px; 
+    border: #55828b solid 8px;
+    border-width: 5px;
+ margin: 5px;
+ 
+}
+
+
+
+#footer {
+    background-color: #55828b;
+    border-radius: 16px;
+    border: #87bba2 solid 8px;
+
+}
